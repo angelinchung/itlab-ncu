@@ -1,7 +1,8 @@
 # itlab-ncu
-- Hi, I'm yihsuan chung.
-- Im interested in watching movie.
-- Im currently learning in MIS.
+- Hi, I'm yihsuan chung.🙌🏻
+- I'm interested in watching movie.🎬
+- I'm currently learning in MIS.👩🏻‍💻
+- I enjoy in playing violin.🎻 
 - How to reach me: 
 - This is my Instagram @...
 
