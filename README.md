@@ -10,11 +10,10 @@
 Nice to meet you.
 
 ## 📫 Contact Me !
-<a href="https://www.facebook.com/angelin.jong/" target="blank"><img align="center" src="https://github.com/angelinchung/itlab-ncu/blob/main/Facebook.jpg?raw=true" alt="Facebook" height="30" width="30"/></a> | 
-<code><img height="20" src="https://github.com/angelinchung/itlab-ncu/blob/main/Facebook.jpg?raw=true"></code> | 
-<code><img height="20" src="https://github.com/angelinchung/itlab-ncu/blob/main/insta.jpg?raw=true"></code> | 
-<code><img height="20" src="https://github.com/angelinchung/itlab-ncu/blob/main/telegram.png?raw=true"></code> | 
-<code><img height="20" src="https://github.com/angelinchung/itlab-ncu/blob/main/wechat.png?raw=true"></code>
+<a href="https://www.facebook.com/angelin.jong/" target="blank"><img align="center" src="https://github.com/angelinchung/itlab-ncu/blob/main/Facebook.jpg?raw=true" alt="Facebook" height="25" width="25"/></a> | 
+<a href="https://www.facebook.com/angelin.jong/" target="blank"><img align="center" src="https://github.com/angelinchung/itlab-ncu/blob/main/insta.jpg?raw=tru" alt="Insta" height="25" width="25"/></a> | 
+<a href="https://www.facebook.com/angelin.jong/" target="blank"><img align="center" src="https://github.com/angelinchung/itlab-ncu/blob/main/telegram.png?raw=true" alt="telegram" height="25" width="25"/></a>  | 
+<a href="https://www.facebook.com/angelin.jong/" target="blank"><img align="center" src="https://github.com/angelinchung/itlab-ncu/blob/main/wechat.png?raw=true" alt="wechat" height="25" width="25"/></a> 
 
 
 
