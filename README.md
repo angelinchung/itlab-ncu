@@ -10,7 +10,7 @@
 Nice to meet you.
 
 ## 📫 Contact Me !
-
+<a href="https://www.facebook.com/angelin.jong/" target="blank"><img align="center" src="https://github.com/angelinchung/itlab-ncu/blob/main/Facebook.jpg?raw=true" alt="Facebook" height="30" width="30"/></a> | 
 <code><img height="20" src="https://github.com/angelinchung/itlab-ncu/blob/main/Facebook.jpg?raw=true"></code> | 
 <code><img height="20" src="https://github.com/angelinchung/itlab-ncu/blob/main/insta.jpg?raw=true"></code> | 
 <code><img height="20" src="https://github.com/angelinchung/itlab-ncu/blob/main/telegram.png?raw=true"></code> | 
