@@ -3,7 +3,7 @@
 **Hi, I'm yihsuan chung.🙌🏻**
 ## About me
 - a student in [NCU]( https://www.ncu.edu.tw/tw/index.html)✍🏻
-- I'm currently learning in MIS.
+- I'm currently learning in **MIS**.
 - I'm interested in watching movie.🎬
 - I enjoy in playing violin.🎻 
 
@@ -15,5 +15,9 @@ Nice to meet you.
 <a href="https://www.facebook.com/angelin.jong/" target="blank"><img align="center" src="https://github.com/angelinchung/itlab-ncu/blob/main/telegram.png?raw=true" alt="telegram" height="25" width="25"/></a>  | 
 <a href="https://www.facebook.com/angelin.jong/" target="blank"><img align="center" src="https://github.com/angelinchung/itlab-ncu/blob/main/wechat.png?raw=true" alt="wechat" height="25" width="25"/></a> 
 
+## One day I want to...
+```
+make a big fly!
+```
 
 
